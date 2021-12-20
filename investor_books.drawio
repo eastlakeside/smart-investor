@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:52:23.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pMXYnJm2dPU2I3pHq2-Z" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T08:53:22.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ptNLoh5k2QzIqVjser7b" version="16.0.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,10 +23,10 @@
           <mxGeometry x="361" y="855" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=25;fontStyle=5;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="180" y="725" width="240" height="20" as="geometry" />
+          <mxGeometry x="285" y="720" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=22;fontStyle=5;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="205" y="500" width="240" height="20" as="geometry" />
+          <mxGeometry x="310" y="490" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="术：大道至简 - 投资只做价值投资" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontStyle=5;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="240" height="20" as="geometry" />
