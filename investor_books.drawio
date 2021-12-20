@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:03:46.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mrRe833ef38K3abYXhWk" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T08:28:39.477Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yGOEKPn4lLYUNTkeTXfy" version="16.0.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,10 +7,10 @@
         <mxCell id="2UPQn2hBmgpu22kjz8Il-1" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="990" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=#432D57;strokeWidth=1;fillColor=#76608a;fontSize=14;fontColor=#ffffff;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="300" y="490" width="930" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="dKdSaXE48SgPbhcamS2K-32" value="" style="whiteSpace=wrap;html=1;strokeColor=#C73500;strokeWidth=1;fillColor=#fa6800;fontSize=14;fontColor=#000000;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="340" y="150" width="850" height="330" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="哲学：底层思辨" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -22,26 +22,20 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-37" value="《康德-哲学三论》&lt;br&gt;质疑一切的批判性思维" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="356" y="815" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-47" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="356" y="270" width="185" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-49" value="Module" style="shape=component;align=center;fillColor=#99ffff;gradientColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="580" y="220" width="185" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-58" value="体" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="170" y="680" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-59" value="用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="术" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="240" height="20" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-60" value="术：大道至简 - 投资只做价值投资" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="340" y="150" width="240" height="20" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="481" y="50" width="50" height="95" as="geometry" />
+          <mxGeometry x="461" y="30" width="50" height="95" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="大葱头 - 聪明投资者的体用术" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-110" y="77.5" width="1590" height="40" as="geometry" />
+          <mxGeometry x="-130" y="57.5" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="660" y="705" width="268" height="215" as="geometry" />
@@ -55,20 +49,122 @@
         <mxCell id="2UPQn2hBmgpu22kjz8Il-7" value="《Why the west rules - for now》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="709.87" y="805" width="204.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="520" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="590" width="140" height="30" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="陈志武-《金融学通识课》系列 （其房产分析同奥派" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="560" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-12" value="金融" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="520" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="980" y="700" width="268" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理科学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1014.13" y="708" width="199.75" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-15" value="《物种起源》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029.01" y="797.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-16" value="《第三种黑猩猩》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029.01" y="751" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-17" value="《影响力》系列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029.01" y="840" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="520" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-19" value="行为经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="756.87" y="530" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-20" value="《随机漫步的傻瓜》- 塔勒布不确定性系列&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.05" y="550" width="220.95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-21" value="&lt;span&gt;《美第奇效应》&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="726" y="600" width="124.37" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="520" width="210" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-23" value="自由市场经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1004.5" y="530" width="121" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-24" value="《国富论》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="980" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-25" value="张维迎 - 《市场的逻辑》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="980" y="590" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-26" value="哈耶克 - 《通往奴役之路》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="970" y="630" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-27" value="知名不具" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="990" y="670" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="361" y="190" width="244" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-31" value="格系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="200" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="643" y="190" width="244" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-33" value="芒系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="709.87" y="200" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="924.12" y="190" width="244" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-35" value="格+芒 综合配比系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="195" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-36" value="《证券分析》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-37" value="《聪明投资者》看十遍" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-38" value="《投资要义》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-39" value="大道至简-巴菲特和段永平" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-40" value="唐朝夹头系列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="420" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-41" value="《费雪-怎样选择成长股》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-42" value="《穷查理宝典》" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-43" value="李录-文明与现代化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-44" value="投资至简" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-45" value="投资中最简单的事" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948.12" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-46" value="富兰克林传" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-47" value="巴芒演义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948.12" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-48" value="价值投资实战手册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-49" value="危机时代" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="948.12" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-50" value="投资是个“求存”的游戏，不是一个“求真”的游戏。Just stay in the game.&lt;br&gt;让梦想和尊严滚出你的投资体系，只留下冰冷的理性和耐心，不要跟市场谈自己的预期收益率。&lt;br&gt;不要跟市场谈热点，踏空市场热点是价投必须要付的代价，也是价投长期战胜市场的原因。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="80" width="680" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
