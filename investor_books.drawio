@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T08:57:51.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="47TvhhmFJtQB4DT9iDkW" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T14:59:22.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pANtECst3isxLylhUFsq" version="16.0.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-1" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;gradientColor=#ffffff;fontFamily=Verdana;dashed=1;dashPattern=1 1;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-1" value="" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=14;gradientColor=#ffffff;fontFamily=Verdana;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="285" y="720" width="990" height="250" as="geometry" />
         </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-31" value="" style="whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=1;fillColor=#ffff88;fontSize=14;gradientColor=#ffffff;fontFamily=Verdana;dashed=1;" parent="1" vertex="1">
@@ -37,134 +37,146 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="大葱头 - 聪明投资者的体用术" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="-130" y="57.5" width="1590" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="665" y="745" width="268" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-4" value="历史：事物的底层发展规律" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-4" value="历史：事物的底层发展规律" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="729.37" y="762" width="199.75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-6" value="《枪炮、病菌与钢铁》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-6" value="《枪炮、病菌与钢铁》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="729.37" y="800" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-7" value="《西方将主宰多久》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-7" value="《西方将主宰多久》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="714.87" y="845" width="204.25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="361" y="520" width="249" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="陈志武-《金融学通识课》系列 （其房产分析同奥派" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="371" y="560" width="220" height="40" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="陈志武-《金融学通识课》系列 （其房产分析同奥派" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="376" y="550" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-12" value="金融" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-12" value="金融" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="461" y="520" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="985" y="740" width="268" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理科学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理科学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1019.13" y="748" width="199.75" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-15" value="《物种起源》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="1034.01" y="837.5" width="170" height="30" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-15" value="《物种起源》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1034.01" y="855" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-16" value="《第三种黑猩猩》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-16" value="《第三种黑猩猩》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1034.01" y="791" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-17" value="《影响力》系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="1034.01" y="880" width="170" height="30" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-17" value="《影响力》系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="1034" y="920" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#000000;strokeColor=#B09500;gradientColor=none;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#000000;strokeColor=#B09500;gradientColor=none;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="661" y="520" width="279" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-19" value="行为经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-19" value="行为经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="757.87" y="530" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-20" value="《随机漫步的傻瓜》&lt;br&gt;- 塔勒布不确定性系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-20" value="《随机漫步的傻瓜》&lt;br&gt;- 塔勒布不确定性系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="681" y="555" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-21" value="&lt;span&gt;《美第奇效应》&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-21" value="&lt;span&gt;《美第奇效应》&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="738.82" y="610" width="124.37" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="961" y="520" width="229" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-23" value="自由市场经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-23" value="自由市场经济学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1005.5" y="530" width="121" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-24" value="《国富论》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-24" value="《国富论》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="981" y="550" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-25" value="张维迎 - 《市场的逻辑》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-25" value="张维迎 - 《市场的逻辑》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="981" y="580" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-27" value="知名不具" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-27" value="知名不具" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="981" y="640" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-26" value="哈耶克 - 《通往奴役之路》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-26" value="哈耶克 - 《通往奴役之路》" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="971" y="610" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="361" y="190" width="244" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-31" value="格系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-31" value="格系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="410" y="200" width="110" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="643" y="190" width="244" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-33" value="芒系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-33" value="芒系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="709.87" y="200" width="110" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="924.12" y="190" width="244" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-35" value="格+芒 综合配比系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-35" value="格+芒 综合配比系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="980" y="195" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-36" value="《证券分析》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-36" value="《证券分析》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="373" y="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-37" value="《聪明投资者》看十遍" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-37" value="《聪明投资者》看十遍" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="370" y="270" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-38" value="《投资要义》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-38" value="《投资要义》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="373" y="320" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-39" value="大道至简-巴菲特和段永平" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-39" value="大道至简-巴菲特和段永平" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="380" y="370" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-40" value="唐朝夹头系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="373" y="420" width="220" height="40" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-40" value="唐朝《手把手教你读财报》系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="376" y="590" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-41" value="《费雪-怎样选择成长股》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-41" value="《费雪-怎样选择成长股》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="655" y="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-42" value="《穷查理宝典》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-42" value="《穷查理宝典》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="660" y="270" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-43" value="李录-文明与现代化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-43" value="李录-文明与现代化" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="655" y="320" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-44" value="投资至简" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-44" value="投资至简" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="660" y="370" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-45" value="投资中最简单的事" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-45" value="投资中最简单的事" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="940" y="220" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-46" value="富兰克林传" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-46" value="富兰克林传" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="660" y="420" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-47" value="巴芒演义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-47" value="巴芒演义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="940" y="270" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-48" value="价值投资实战手册" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-48" value="价值投资实战手册" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="940" y="320" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-49" value="危机时代" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="940" y="380" width="220" height="40" as="geometry" />
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-49" value="罗杰斯《危机时代》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="940" y="370" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-50" value="投资是个“求存”的游戏，不是一个“求真”的游戏。Just stay in the game.&lt;br&gt;让梦想和尊严剥离你的投资体系，只留下冰冷的理性和耐心，不要跟市场谈自己的预期收益率。&lt;br&gt;不要跟市场谈热点，踏空市场热点是价投必须要付的代价，也是价投长期战胜市场的原因。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-50" value="投资是个“求存”的游戏，不是一个“求真”的游戏。Just stay in the game.&lt;br&gt;让梦想和尊严剥离你的投资体系，只留下冰冷的理性和耐心，不要跟市场谈自己的预期收益率。&lt;br&gt;不要跟市场谈热点，踏空市场热点是价投必须要付的代价，也是价投长期战胜市场的原因。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="511" y="80" width="680" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_oVIlWOz1TtohpvACNEr-1" value="王剑讲银行业" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="376" y="630" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_oVIlWOz1TtohpvACNEr-2" value="《思考，快与慢》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1034" y="825" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oVIlWOz1TtohpvACNEr-3" value="《自私的基因》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1034.01" y="885" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oVIlWOz1TtohpvACNEr-4" value="张磊《价值》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="940" y="420" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
