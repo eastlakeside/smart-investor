@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T14:59:22.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pANtECst3isxLylhUFsq" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T15:00:40.199Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="vBVTRjFOEHQlJos5JXUf" version="16.0.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
         <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="361" y="520" width="249" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="陈志武-《金融学通识课》系列 （其房产分析同奥派" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-9" value="陈志武-《金融通识课》系列 （其房产分析同奥派" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="376" y="550" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-12" value="金融" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
@@ -155,13 +155,13 @@
           <mxGeometry x="660" y="420" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-47" value="巴芒演义" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="940" y="270" width="220" height="40" as="geometry" />
+          <mxGeometry x="933" y="330" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-48" value="价值投资实战手册" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="940" y="320" width="220" height="40" as="geometry" />
+          <mxGeometry x="933" y="380" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-49" value="罗杰斯《危机时代》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="940" y="370" width="220" height="40" as="geometry" />
+          <mxGeometry x="935" y="410" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-50" value="投资是个“求存”的游戏，不是一个“求真”的游戏。Just stay in the game.&lt;br&gt;让梦想和尊严剥离你的投资体系，只留下冰冷的理性和耐心，不要跟市场谈自己的预期收益率。&lt;br&gt;不要跟市场谈热点，踏空市场热点是价投必须要付的代价，也是价投长期战胜市场的原因。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="511" y="80" width="680" height="70" as="geometry" />
@@ -176,7 +176,10 @@
           <mxGeometry x="1034.01" y="885" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_oVIlWOz1TtohpvACNEr-4" value="张磊《价值》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="940" y="420" width="220" height="40" as="geometry" />
+          <mxGeometry x="936.12" y="440" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_oVIlWOz1TtohpvACNEr-5" value="投资最重要的事" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="941" y="270" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
