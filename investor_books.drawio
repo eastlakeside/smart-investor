@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T09:31:58.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="s4XEKyWNk6jr-RgsjhJm" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:32:55.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="z6JjHdPyJrwDLTw0wW1i" version="17.1.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="dKdSaXE48SgPbhcamS2K-62" value="" style="html=1;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.actor;fontSize=14;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="461" y="30" width="50" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="大葱头 - 聪明投资者的体用术" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="57.5" width="1590" height="40" as="geometry" />
+        <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="攒资产的小葱头 - 聪明投资者的体用术" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="30" width="1590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="665" y="745" width="268" height="215" as="geometry" />
