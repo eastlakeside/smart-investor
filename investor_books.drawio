@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T15:29:58.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xFWDf65vVRacR9UViXNL" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T09:31:58.950Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="s4XEKyWNk6jr-RgsjhJm" version="17.1.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,10 +80,10 @@
           <mxGeometry x="757.87" y="530" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-20" value="《随机漫步的傻瓜》&lt;br&gt;- 塔勒布不确定性系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="681" y="555" width="240" height="50" as="geometry" />
+          <mxGeometry x="680.25" y="595" width="240.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-21" value="&lt;span&gt;《美第奇效应》&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="738.82" y="610" width="124.37" height="40" as="geometry" />
+          <mxGeometry x="736.8100000000001" y="635" width="124.37" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="961" y="520" width="229" height="160" as="geometry" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="_oVIlWOz1TtohpvACNEr-11" value="《这次不一样-八百年金融危机史" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="376" y="680" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rPRx6Cu0Rj1aU1Bfvwr7-1" value="《“错误”的行为》&lt;br&gt;- 理查德塞勒三部曲" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680.76" y="555" width="240.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
