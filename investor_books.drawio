@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T16:47:38.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="mMb20GGFbZxnssT3dbJ8" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-05T16:48:59.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="pWoXcISzi0QgZz7dPtas" version="17.2.1" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,7 +131,7 @@
           <mxGeometry x="373" y="320" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-39" value="大道至简-巴菲特和段永平" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="380" y="370" width="220" height="40" as="geometry" />
+          <mxGeometry x="373" y="420" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-40" value="唐朝《手把手教你读财报》系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="376" y="590" width="220" height="30" as="geometry" />
@@ -210,6 +210,9 @@
         </mxCell>
         <mxCell id="ezXGHrwmtlA3wl73h4Eo-2" value="《RayDalio世界秩序原则2》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="680" y="780" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ezXGHrwmtlA3wl73h4Eo-3" value="《指数基金投资指南》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="376" y="370" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
