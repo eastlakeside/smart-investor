@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T08:59:30.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AMLKLlTNmvj62bpAkSaL" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T09:02:08.454Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MIOHhkMg3Sv-7qNzM64I" version="17.4.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="2UPQn2hBmgpu22kjz8Il-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="985" y="740" width="268" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理科学" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
+        <mxCell id="2UPQn2hBmgpu22kjz8Il-14" value="心理科学+情绪控制" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1019.13" y="748" width="199.75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-15" value="《物种起源》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="1034.01" y="791" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-17" value="《影响力》系列" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="900" width="170" height="30" as="geometry" />
+          <mxGeometry x="1034.01" y="890" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#000000;strokeColor=#B09500;gradientColor=none;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="661" y="520" width="279" height="160" as="geometry" />
@@ -222,6 +222,9 @@
         </mxCell>
         <mxCell id="vK0wXEQlyKKFTBUph-yH-5" value="Alan认为的理解人类社会经济发展差异的三部曲" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610.81" y="830" width="135" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vK0wXEQlyKKFTBUph-yH-6" value="《当励志不再有效》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1034.01" y="920" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
