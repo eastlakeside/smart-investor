@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-05T16:48:59.816Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="pWoXcISzi0QgZz7dPtas" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T08:59:30.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="AMLKLlTNmvj62bpAkSaL" version="17.4.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="2528" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,10 +44,10 @@
           <mxGeometry x="701.13" y="748" width="199.75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-6" value="《枪炮、病菌与钢铁》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="705" y="832.5" width="170" height="30" as="geometry" />
+          <mxGeometry x="750.75" y="820" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-7" value="《西方将主宰多久》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="691.18" y="870" width="204.25" height="30" as="geometry" />
+          <mxGeometry x="687.88" y="900" width="204.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFC757;fontColor=#ffffff;strokeColor=#6D1F00;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="361" y="520" width="249" height="180" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1019.13" y="748" width="199.75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-15" value="《物种起源》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="714" y="910" width="170" height="30" as="geometry" />
+          <mxGeometry x="713.99" y="930" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UPQn2hBmgpu22kjz8Il-16" value="《第三种黑猩猩》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="1034.01" y="791" width="170" height="30" as="geometry" />
@@ -200,19 +200,28 @@
           <mxGeometry x="680.76" y="555" width="240.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GKAUTqrhiYJ9FwPA4YBA-1" value="国富国穷" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
-          <mxGeometry x="986.12" y="670" width="170" height="30" as="geometry" />
+          <mxGeometry x="751.26" y="840" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GKAUTqrhiYJ9FwPA4YBA-2" value="穷理查智慧书" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="680.7600000000001" y="440" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ezXGHrwmtlA3wl73h4Eo-1" value="老子庄子&lt;br&gt;鲲鹏万里的超脱，为善不近名，生有涯而知无涯" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="ezXGHrwmtlA3wl73h4Eo-1" value="老子庄子&lt;br&gt;鲲鹏万里的超脱，为善不近名，生有涯而知无涯" style="html=1;whiteSpace=wrap;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="354.5" y="830" width="221" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ezXGHrwmtlA3wl73h4Eo-2" value="《RayDalio世界秩序原则2》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="680" y="780" width="250" height="40" as="geometry" />
+        <mxCell id="ezXGHrwmtlA3wl73h4Eo-2" value="《RayDalio世界秩序原则2》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
+          <mxGeometry x="675.5" y="770" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ezXGHrwmtlA3wl73h4Eo-3" value="《指数基金投资指南》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="ezXGHrwmtlA3wl73h4Eo-3" value="《指数基金投资指南》" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" parent="1" vertex="1">
           <mxGeometry x="376" y="370" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vK0wXEQlyKKFTBUph-yH-1" value="文化的重要作用" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#ffffff;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="750.75" y="860" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vK0wXEQlyKKFTBUph-yH-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="736.81" y="825" width="9" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vK0wXEQlyKKFTBUph-yH-5" value="Alan认为的理解人类社会经济发展差异的三部曲" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610.81" y="830" width="135" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
